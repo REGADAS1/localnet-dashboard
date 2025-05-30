@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+__pycache__/
+*.pyc
+
+# Base de dados e ficheiros locais
+network.db
+
+# Ficheiros temporários e IDEs
+*.log
+*.swp
+.idea/
+.vscode/
